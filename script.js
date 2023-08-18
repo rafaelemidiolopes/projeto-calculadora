@@ -1,8 +1,6 @@
 "use strict"
 const result = document.querySelector('#resultado')
 
-const nan = document.querySelector('')
-
 
 function inserir(valor) {
 
@@ -55,8 +53,4 @@ const igual = () => {
 }
 }
 
-
-if (result == NaN || Infinity)  {
-    document.getElementById("resultado").innerHTML = "Erro, não é possivel dividir por 0!"
-}
 

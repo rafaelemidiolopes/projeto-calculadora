@@ -2,15 +2,12 @@
     #calc {
         width: 100%; 
         max-width: 400px;
-        padding-top: -10px;
+        height: 520px;
     }
 
     #calculator {
         font-size: 16px; 
-        margin-bottom: -15px;
-        margin-top: -10px;
-      
-        
+        margin-bottom: -15px;  
     }
 
     #buttons {
@@ -26,16 +23,17 @@
     }
     body {
         height: 500px;
-        margin-top: -18px;
+        margin-top: 20px;
         overflow: hidden;
     }
 
     #resultado {
-        margin-bottom: -15px;
+        margin-bottom: 25px;
+        margin-top: 25px;
     }
 
     #buttons button {
-        padding: 18px 15px; 
+        padding: 20px 15px; 
         font-size: 14px; 
     }
 
