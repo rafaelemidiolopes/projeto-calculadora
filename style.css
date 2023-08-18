@@ -26,6 +26,7 @@
         overflow: hidden;
         width: 350px;
         box-align: center;
+        transform: translate(118px, 50px);
     }
 
     #resultado {
