@@ -2,7 +2,6 @@
     #calc {
         max-width: 350px;
         height: 520px;
-        margin-top: 30px;
     }
 
     #calculator {
@@ -23,10 +22,9 @@
     }
     body {
         height: 500px;
-        margin-top: 20px;
+        margin-top: 40px;
         overflow: hidden;
         width: 350px;
-     
         margin: auto;
     }
 
