@@ -22,10 +22,10 @@
     }
     body {
         height: 500px;
-        margin-top: 40px;
         overflow: hidden;
         width: 350px;
         margin: auto;
+        margin-top: auto;
     }
 
     #resultado {
