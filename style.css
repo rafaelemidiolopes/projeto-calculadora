@@ -1,6 +1,5 @@
 @media (max-width: 600px) {
     #calc {
-        width: 100%; 
         max-width: 350px;
         height: 520px;
     }
